@@ -1,1 +1,3 @@
-// New feature
+// New feature 1
+
+// Feature 2
